@@ -1,0 +1,8 @@
+body {
+ font-family: 'Sora', sans-serif;
+ color: #000045 !important;
+}
+
+.border-gray {
+    border: 1px solid #d4d4d4 !important;
+}
